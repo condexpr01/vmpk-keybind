@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE keyboardmap>
+<keyboardmap version="1.0">
+    <mapping key="1" note="19"/>
+    <mapping key="2" note="21"/>
+    <mapping key="3" note="23"/>
+    <mapping key="4" note="24"/>
+    <mapping key="5" note="26"/>
+    <mapping key="6" note="28"/>
+    <mapping key="7" note="30"/>
+    <mapping key="8" note="31"/>
+</keyboardmap>
