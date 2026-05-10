@@ -18,3 +18,15 @@
 ├── G-major.xml
 └── readme.md
 ```
+
+# collection
+
+* twinkle twinkle little star
+```
+1 1 5 5 | 6 6 5 - |
+4 4 3 3 | 2 2 1 - |
+5 5 4 4 | 3 3 2 - |
+5 5 4 4 | 3 3 2 - |
+1 1 5 5 | 6 6 5 - |
+4 4 3 3 | 2 2 1 - |
+```
